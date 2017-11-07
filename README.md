@@ -1,4 +1,4 @@
-#  6502 Assembly ca65 Boilerplate
+#  6502 Assembly ca65 Boilerplate (macOS/Linux)
 
 This is a boilerplate that should be used as a starting point for the creation of classic NES games in 6502 assembly.
 
